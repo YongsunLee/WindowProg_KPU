@@ -1,0 +1,11 @@
+﻿빌드 시작: 2014-04-29 오후 11:09:16
+     1>2 노드의 "D:\Job\2 - 1\윈도우 프로그래밍\API 05 - 3\API 05 - 3\API 05 - 3.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "5-3.cpp"
+         5-3.cpp
+     1>d:\job\2 - 1\윈도우 프로그래밍\api 05 - 3\api 05 - 3\5-3.cpp(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'resource.h': No such file or directory
+     1>"D:\Job\2 - 1\윈도우 프로그래밍\API 05 - 3\API 05 - 3\API 05 - 3.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:01.03

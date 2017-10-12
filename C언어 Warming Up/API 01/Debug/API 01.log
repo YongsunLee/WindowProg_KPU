@@ -1,0 +1,17 @@
+﻿빌드 시작: 2014-03-12 오전 11:58:38
+     1>2 노드의 "C:\Users\SunE\Desktop\Job\2 - 1\윈도우 프로그래밍\API 01\API 01\API 01.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt 10.5.c
+         10.5.c
+     1>c:\users\sune\desktop\job\2 - 1\윈도우 프로그래밍\api 01\api 01\10.5.c(26): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+     1>c:\users\sune\desktop\job\2 - 1\윈도우 프로그래밍\api 01\api 01\10.5.c(19): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+     1>c:\users\sune\desktop\job\2 - 1\윈도우 프로그래밍\api 01\api 01\10.5.c(111): warning C4715: 'CheckLastDay' : 모든 제어 경로에서 값을 반환하지는 않습니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\SunE\Desktop\Job\2 - 1\윈도우 프로그래밍\API 01\Debug\API 01.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\SunE\Desktop\Job\2 - 1\윈도우 프로그래밍\API 01\Debug\API 01.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\SunE\Desktop\Job\2 - 1\윈도우 프로그래밍\API 01\Debug\API 01.lib" /MACHINE:X86 Debug\10.5.obj
+         API 01.vcxproj -> C:\Users\SunE\Desktop\Job\2 - 1\윈도우 프로그래밍\API 01\Debug\API 01.exe
+     1>"C:\Users\SunE\Desktop\Job\2 - 1\윈도우 프로그래밍\API 01\API 01\API 01.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.73
